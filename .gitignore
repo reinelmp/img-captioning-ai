@@ -1,0 +1,43 @@
+# Environments
+.venv/
+env/
+venv/
+ENV/
+my_env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.pytest_cache/
+
+# Sensitive Information / Environment Variables
+.env
+.flaskenv
+
+# Editors/IDE
+.vscode/
+.idea/
+*.swp
